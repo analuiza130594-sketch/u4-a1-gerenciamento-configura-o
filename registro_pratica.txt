@@ -1,0 +1,4 @@
+Projeto: Gerenciamento de Configuração
+Objetivo: praticar o controle de versões com Git e GitHub.
+Responsável: Ana Luiza Santos Rodrigues.
+Registro: arquivo criado para demonstrar a atualização de artefatos.
